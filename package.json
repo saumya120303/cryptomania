@@ -1,3 +1,4 @@
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 {
   "name": "three",
   "version": "0.1.0",
